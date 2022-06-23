@@ -1,0 +1,10 @@
+Command to debug python program
+-> python -m pdb script_name.py
+
+Some PDB commands for python  debugging python programs
+- Add breakpoint (b)
+- Resume Execution (c)
+- Step by Step Debugging (s)
+- Move to next line (n)
+- List source code (l)
+- Print an expression (p)
